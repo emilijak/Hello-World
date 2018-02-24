@@ -1,4 +1,4 @@
 # Hello-World
 my Hello world repository
 
-My first change: Hello Hello workld!
+My first change: Hello Hello world!
